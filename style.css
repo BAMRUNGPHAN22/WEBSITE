@@ -1,0 +1,44 @@
+body {
+
+    background-image: url('https://img.freepik.com/free-photo/orange-flowers-oil-paint-textured-background_53876-125221.jpg');
+  
+    background-repeat: repeat;
+    background-size: cover;
+    font-family: 'Kanit', sans-serif;
+   } 
+   header
+  
+    {
+  
+      background-color: black;
+  
+      color: white;
+  
+      height: 70px;
+  
+      padding: 10px;
+  
+    }
+
+    footer  {background-color: black;
+  
+        color: white;
+    
+        height: 70px;
+    
+        padding: 10px;
+    text-align: center;}
+  
+  
+    .mainpage 
+  
+    {
+  
+      width: 1024px; 
+  
+      margin: 0 auto;
+  
+    }
+    .headname { color: chartreuse;}
+  
+      
