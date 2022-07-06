@@ -14,7 +14,7 @@ header {
 
 footer {
   background-color: black;
-  color: white;
+  color: rgb(255, 0, 0);
   height: 50px;
   padding: 10px;
   text-align: center;
@@ -25,6 +25,14 @@ footer {
     margin: 0 auto;
   }
 
-.headname {
+.headname1 {
   color: rgb(255, 238, 0);
+  font-size: 30px;
+}
+.headname2 { color :rgb(255, 10, 10);
+}
+.graphic{
+  background-image:  url("images/chantaburi-cover.jpeg");
+  height: 320px;
+  padding: auto;
 }
